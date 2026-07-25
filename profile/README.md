@@ -6,7 +6,7 @@
 
 **Operator-grade infrastructure and automation.**
 
-Auxillo builds tools for people who run real systems — founders, engineers, security operations, and infrastructure operators who need speed without giving up control.
+Auxillo builds tools for people who run real systems - founders, engineers, security operations, and infrastructure operators who need speed without giving up control.
 
 We believe the best tools are the ones that get out of your way when things are working and give you clarity when they're not.
 
@@ -14,7 +14,7 @@ We believe the best tools are the ones that get out of your way when things are 
 
 | Product | What it does |
 |---|---|
-| **Aux Command** | Remote operations workstation — distributed shell, diagnostics panel, fleet-wide execution, embedded VNC/RDP, and agent orchestration for operators who manage many machines |
+| **Aux Command** | Remote operations workstation - distributed shell, diagnostics panel, fleet-wide execution, embedded VNC/RDP, and agent orchestration for operators who manage many machines |
 | **Aux Proton Drive Bridge** | Desktop bridge that syncs, mounts, and manages Proton Drive volumes with bidirectional support, conflict handling, encrypted local cache, and file manager integration |
 
 
@@ -29,8 +29,8 @@ We believe the best tools are the ones that get out of your way when things are 
 
 Auxillo is actively developing its product line. Most systems are hardened and in production use before they see a public release.
 
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — in active development (private while hardening)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — early release (private while hardening)
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - in active development (private while hardening)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - early release (private while hardening)
 
 
 ## Links

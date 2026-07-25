@@ -6,7 +6,7 @@
 
 **Infraestructura de nivel operador y automatización.**
 
-Auxillo construye herramientas para personas que gestionan sistemas reales — fundadores, ingenieros, operaciones de seguridad y operadores de infraestructura que necesitan rapidez sin renunciar al control.
+Auxillo construye herramientas para personas que gestionan sistemas reales - fundadores, ingenieros, operaciones de seguridad y operadores de infraestructura que necesitan rapidez sin renunciar al control.
 
 Creemos que las mejores herramientas son las que se apartan de tu camino cuando todo funciona y te brindan claridad cuando algo falla.
 
@@ -14,7 +14,7 @@ Creemos que las mejores herramientas son las que se apartan de tu camino cuando 
 
 | Producto | Qué hace |
 |---|---|
-| **Aux Command** | Estación de trabajo de operaciones remotas — shell distribuido, panel de diagnósticos, ejecución en flota, VNC/RDP integrado y orquestación de agentes para operadores que gestionan muchas máquinas |
+| **Aux Command** | Estación de trabajo de operaciones remotas - shell distribuido, panel de diagnósticos, ejecución en flota, VNC/RDP integrado y orquestación de agentes para operadores que gestionan muchas máquinas |
 | **Aux Proton Drive Bridge** | Puente de escritorio que sincroniza, monta y gestiona volúmenes de Proton Drive con soporte bidireccional, manejo de conflictos, caché local cifrada e integración con el gestor de archivos |
 
 
@@ -29,8 +29,8 @@ Creemos que las mejores herramientas son las que se apartan de tu camino cuando 
 
 Auxillo está desarrollando activamente su línea de productos. La mayoría de los sistemas están endurecidos y en uso en producción antes de recibir un lanzamiento público.
 
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — en desarrollo activo (privado durante el endurecimiento)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — lanzamiento temprano (privado durante el endurecimiento)
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - en desarrollo activo (privado durante el endurecimiento)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - lanzamiento temprano (privado durante el endurecimiento)
 
 
 ## Enlaces

@@ -6,7 +6,7 @@
 
 **Infrastructure de niveau opérateur et automatisation.**
 
-Auxillo conçoit des outils pour les personnes qui exploitent des systèmes réels — fondateurs, ingénieurs, opérations de sécurité et opérateurs d'infrastructure qui ont besoin de rapidité sans sacrifier le contrôle.
+Auxillo conçoit des outils pour les personnes qui exploitent des systèmes réels - fondateurs, ingénieurs, opérations de sécurité et opérateurs d'infrastructure qui ont besoin de rapidité sans sacrifier le contrôle.
 
 Nous croyons que les meilleurs outils sont ceux qui se font oublier quand tout fonctionne et qui apportent de la clarté quand ce n'est pas le cas.
 
@@ -14,7 +14,7 @@ Nous croyons que les meilleurs outils sont ceux qui se font oublier quand tout f
 
 | Produit | Ce qu'il fait |
 |---|---|
-| **Aux Command** | Poste de travail d'opérations à distance — shell distribué, panneau de diagnostic, exécution sur flotte, VNC/RDP intégré et orchestration d'agents pour les opérateurs qui gèrent de nombreuses machines |
+| **Aux Command** | Poste de travail d'opérations à distance - shell distribué, panneau de diagnostic, exécution sur flotte, VNC/RDP intégré et orchestration d'agents pour les opérateurs qui gèrent de nombreuses machines |
 | **Aux Proton Drive Bridge** | Pont de bureau qui synchronise, monte et gère les volumes Proton Drive avec prise en charge bidirectionnelle, gestion des conflits, cache local chiffré et intégration au gestionnaire de fichiers |
 
 
@@ -29,8 +29,8 @@ Nous croyons que les meilleurs outils sont ceux qui se font oublier quand tout f
 
 Auxillo développe activement sa gamme de produits. La plupart des systèmes sont durcis et utilisés en production avant de faire l'objet d'une version publique.
 
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — en développement actif (privé pendant le durcissement)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — première version (privé pendant le durcissement)
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - en développement actif (privé pendant le durcissement)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - première version (privé pendant le durcissement)
 
 
 ## Liens

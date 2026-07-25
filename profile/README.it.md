@@ -6,7 +6,7 @@
 
 **Infrastruttura e automazione di livello operativo.**
 
-Auxillo crea strumenti per chi gestisce sistemi reali — fondatori, ingegneri, operatori della sicurezza e professionisti dell'infrastruttura che hanno bisogno di velocità senza rinunciare al controllo.
+Auxillo crea strumenti per chi gestisce sistemi reali - fondatori, ingegneri, operatori della sicurezza e professionisti dell'infrastruttura che hanno bisogno di velocità senza rinunciare al controllo.
 
 Crediamo che i migliori strumenti siano quelli che non ti intralciano quando tutto funziona e ti danno chiarezza quando qualcosa non va.
 
@@ -14,7 +14,7 @@ Crediamo che i migliori strumenti siano quelli che non ti intralciano quando tut
 
 | Prodotto | Cosa fa |
 |---|---|
-| **Aux Command** | Postazione di lavoro remota — shell distribuita, pannello di diagnostica, esecuzione su flotta, VNC/RDP integrato e orchestrazione di agenti per operatori che gestiscono molte macchine |
+| **Aux Command** | Postazione di lavoro remota - shell distribuita, pannello di diagnostica, esecuzione su flotta, VNC/RDP integrato e orchestrazione di agenti per operatori che gestiscono molte macchine |
 | **Aux Proton Drive Bridge** | Ponte desktop che sincronizza, monta e gestisce volumi Proton Drive con supporto bidirezionale, gestione dei conflitti, cache locale crittografata e integrazione con il file manager |
 
 
@@ -29,8 +29,8 @@ Crediamo che i migliori strumenti siano quelli che non ti intralciano quando tut
 
 Auxillo sta sviluppando attivamente la propria linea di prodotti. La maggior parte dei sistemi viene irrobustita e testata in produzione prima di ricevere un rilascio pubblico.
 
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — in fase di sviluppo attivo (privato durante l'irrobustimento)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — rilascio iniziale (privato durante l'irrobustimento)
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - in fase di sviluppo attivo (privato durante l'irrobustimento)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - rilascio iniziale (privato durante l'irrobustimento)
 
 
 ## Link

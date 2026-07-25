@@ -6,16 +6,16 @@
 
 **Betreibergerechte Infrastruktur und Automatisierung.**
 
-Auxillo entwickelt Werkzeuge für Menschen, die echte Systeme betreiben – Gründer, Ingenieure, Sicherheitsverantwortliche und Infrastrukturbetreiber, die Geschwindigkeit benötigen, ohne die Kontrolle aufzugeben.
+Auxillo entwickelt Werkzeuge für Menschen, die echte Systeme betreiben - Gründer, Ingenieure, Sicherheitsverantwortliche und Infrastrukturbetreiber, die Geschwindigkeit benötigen, ohne die Kontrolle aufzugeben.
 
-Wir glauben, dass die besten Werkzeuge diejenigen sind, die dir aus dem Weg gehen, wenn alles funktioniert – und dir Klarheit verschaffen, wenn etwas nicht läuft.
+Wir glauben, dass die besten Werkzeuge diejenigen sind, die dir aus dem Weg gehen, wenn alles funktioniert - und dir Klarheit verschaffen, wenn etwas nicht läuft.
 
 ## Was wir entwickeln
 
 | Produkt | Funktion |
 |---|---|
-| **Aux Command** | Remote-Arbeitsplatz für Betriebsteams – verteilte Shell, Diagnosepanel, flottenweite Ausführung, integriertes VNC/RDP und Agentenorchestrierung für Betreiber vieler Maschinen |
-| **Aux Proton Drive Bridge** | Desktop-Brücke, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet – mit bidirektionaler Unterstützung, Konfliktbehandlung, verschlüsseltem lokalen Cache und Dateimanager-Integration |
+| **Aux Command** | Remote-Arbeitsplatz für Betriebsteams - verteilte Shell, Diagnosepanel, flottenweite Ausführung, integriertes VNC/RDP und Agentenorchestrierung für Betreiber vieler Maschinen |
+| **Aux Proton Drive Bridge** | Desktop-Brücke, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet - mit bidirektionaler Unterstützung, Konfliktbehandlung, verschlüsseltem lokalen Cache und Dateimanager-Integration |
 
 
 ## Philosophie
@@ -29,8 +29,8 @@ Wir glauben, dass die besten Werkzeuge diejenigen sind, die dir aus dem Weg gehe
 
 Auxillo entwickelt derzeit aktiv seine Produktlinie. Die meisten Systeme werden gehärtet und im Produktionseinsatz getestet, bevor sie eine öffentliche Veröffentlichung erhalten.
 
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** – in aktiver Entwicklung (privat während der Härtung)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** – frühe Veröffentlichung (privat während der Härtung)
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - in aktiver Entwicklung (privat während der Härtung)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - frühe Veröffentlichung (privat während der Härtung)
 
 
 ## Links
