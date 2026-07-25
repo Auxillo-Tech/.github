@@ -1,4 +1,4 @@
-🌐 **English** · [Português](./SECURITY.pt.md)
+🌐 **English** · [Português](https://github.com/Auxillo-Tech/.github/blob/main/SECURITY.pt.md)
 
 ---
 

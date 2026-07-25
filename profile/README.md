@@ -1,4 +1,4 @@
-🌐 **English** · [Português](./profile/README.pt.md)
+🌐 **English** · [Português](https://github.com/Auxillo-Tech/.github/blob/main/profile/README.pt.md)
 
 ---
 
