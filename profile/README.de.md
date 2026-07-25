@@ -4,34 +4,25 @@
 
 # Auxillo
 
-**Betreibergerechte Infrastruktur und Automatisierung.**
+**Desktop-Werkzeuge für den Infrastrukturbetrieb – entwickelt von einem Architekten, Open Source.**
 
-Auxillo entwickelt Werkzeuge für Menschen, die echte Systeme betreiben - Gründer, Ingenieure, Sicherheitsverantwortliche und Infrastrukturbetreiber, die Geschwindigkeit benötigen, ohne die Kontrolle aufzugeben.
+Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform – Managed Hosting, Diagnosetools, E-Mail, SEO und Domains – befindet sich auf auxillo.tech.
 
-Wir glauben, dass die besten Werkzeuge diejenigen sind, die dir aus dem Weg gehen, wenn alles funktioniert - und dir Klarheit verschaffen, wenn etwas nicht läuft.
+## Repositories
 
-## Was wir entwickeln
+### Aux Command
 
-| Produkt | Funktion |
-|---|---|
-| **Aux Command** | Remote-Arbeitsplatz für Betriebsteams - verteilte Shell, Diagnosepanel, flottenweite Ausführung, integriertes VNC/RDP und Agentenorchestrierung für Betreiber vieler Maschinen |
-| **Aux Proton Drive Bridge** | Desktop-Brücke, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet - mit bidirektionaler Unterstützung, Konfliktbehandlung, verschlüsseltem lokalen Cache und Dateimanager-Integration |
+Eine Linux-Arbeitsstation für den Fernbetrieb, die technischen Betreibern einen kontrollierten Ort bietet, um lokale Shells, SSH-Sitzungen, SFTP-Browser, Tunnel, serielle Konsolen, Mosh, Telnet, RDP, VNC und Remote-Desktop-Launcher zu öffnen. Verwendet natives OpenSSH für Terminalsitzungen. Entwickelt mit Electron-Sandbox, Kontextisolierung und sicherheitsorientierter Credential-Verwaltung. Verfügbar als AppImage, .deb und .rpm.
 
+### Aux Proton Drive Bridge
+
+Eine Desktop-Brücke für Linux, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet – mit bidirektionaler Unterstützung. Handhabt Konfliktlösung, verschlüsselten Lokal-Cache, Dateimanager-Integration und optionalen FUSE-Mount. Verwendet Protons offizielle CLI zur Authentifizierung – Ihr Passwort wird niemals von der Brücke verarbeitet.
 
 ## Philosophie
 
-- **Lokal zuerst.** Wir entwickeln für selbst-gehosteten, datenschutzbewussten Betrieb. Cloud-Dienste sind optional, niemals verpflichtend.
-- **Geschwindigkeit für Betreiber.** Jedes Werkzeug, das wir bauen, geht von der Frage aus: Verkürzt dies die Zeit bis zur Behebung?
-- **Sicherheit zuerst.** Authentifizierung, Verschlüsselung und Zugriffsgrenzen sind grundlegend, nicht nachträglich hinzugefügt.
-- **Open Source.** Alle unsere Werkzeuge sind öffentlich und kostenlos. Es gibt keine Enterprise-Editionen, keine kostenpflichtigen Stufen, keine Funktionsbeschränkungen.
+Ihre Infrastruktur sollte ein Vermögenswert sein, keine Belastung. Automatisierung hat ihren Platz. Kritische Entscheidungen nicht.
 
-## Status
-
-Auxillo entwickelt derzeit aktiv seine Produktlinie. Die meisten Systeme werden gehärtet und im Produktionseinsatz getestet, bevor sie eine öffentliche Veröffentlichung erhalten.
-
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - in aktiver Entwicklung (privat während der Härtung)
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - frühe Veröffentlichung (privat während der Härtung)
-
+Beide Werkzeuge basieren auf standardmäßigen, quelloffenen Architekturen ohne Vendor-Lock-in und ohne kostenpflichtige Funktionen.
 
 ## Links
 

@@ -4,36 +4,27 @@
 
 # Auxillo
 
-**运维级基础设施与自动化。**
+**面向基础设施运维的桌面工具——由架构师打造，开源发布。**
 
-Auxillo 致力于为真正运行系统的人打造工具 面向创始人、工程师、安全运维人员及基础设施运营者，他们需要速度，但不愿牺牲控制权。
+Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台——包括托管服务、诊断工具、电子邮件、SEO 和域名——请访问 auxillo.tech。
 
-我们坚信，最好的工具是那些在你一切顺利时隐于无形、在你遇到问题时带来清晰的工具。
+## 仓库
 
-## 我们的产品
+### Aux Command
 
-| 产品 | 功能 |
-|---|---|
-| **Aux Command** | 远程运维工作站 分布式 Shell、诊断面板、集群级执行、嵌入式 VNC/RDP，以及面向多机管理者的 Agent 编排 |
-| **Aux Proton Drive Bridge** | 桌面桥接工具，支持 Proton Drive 卷的同步、挂载与管理，提供双向同步、冲突处理、加密本地缓存及文件管理器集成 |
+一款面向技术运维人员的 Linux 远程操作工作站，提供统一受控界面，可打开本地 Shell、SSH 会话、SFTP 浏览器、隧道、串行控制台、Mosh、Telnet、RDP、VNC 及远程桌面启动器。终端会话使用原生 OpenSSH。采用 Electron 沙箱、上下文隔离和以安全为先的凭据处理构建。提供 AppImage、.deb 和 .rpm 格式。
 
+### Aux Proton Drive Bridge
+
+一款面向 Linux 的桌面桥接工具，可双向同步、挂载和管理 Proton Drive 卷。支持冲突解决、加密本地缓存、文件管理器集成及可选的 FUSE 挂载。使用 Proton 官方 CLI 进行身份验证——您的密码绝不会经由此桥接工具处理。
 
 ## 理念
 
-- **本地优先。** 我们坚持面向自托管、隐私优先的设计。云服务是可选的，绝非强制。
-- **运维速度。** 我们构建的每一个工具都以一个问题为出发点：它是否缩短了故障修复时间？
-- **安全优先。** 认证、加密和访问边界是基础能力，而非事后修补。
-- **开放源代码。** 我们所有工具均为公开且免费。没有企业版、没有付费层级、没有功能门槛。
+您的基础设施应是资产，而非负担。自动化有其用武之地，但关键决策不应自动化。
 
-## 当前状态
-
-Auxillo 正在积极开发其产品线。大多数系统在公开发布前已经过充分加固并投入生产使用。
-
-- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** - 正在积极开发中（加固期间保持私有）
-- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** - 早期发布阶段（加固期间保持私有）
-
+两款工具均基于标准开源架构构建，无供应商锁定，无付费功能。
 
 ## 链接
 
-- 官网：[auxillo.tech](https://auxillo.tech)
+- 网站：[auxillo.tech](https://auxillo.tech)
 - GitHub：[github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)
