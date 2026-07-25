@@ -1,3 +1,7 @@
+🌐 **English** · [Português](./SECURITY.pt.md)
+
+---
+
 # Security Policy
 
 Auxillo takes security seriously.

@@ -1,3 +1,7 @@
+🌐 **English** · [Português](./profile/README.pt.md)
+
+---
+
 # Auxillo
 
 **Operator-grade infrastructure, automation, and AI-assisted diagnostics.**
@@ -10,9 +14,9 @@ We believe the best tools are the ones that get out of your way when things are 
 
 | Product | What it does |
 |---|---|
-| **Aux Command** | Remote command infrastructure — distributed shell, diagnostics panel, fleet-wide execution, and agent orchestration for operators who manage many machines |
-| **Aux Proton Drive Bridge** | Desktop bridge that syncs, mounts, and manages Proton Drive volumes with bidirectional support, conflict handling, and file manager integration |
-| **EDI** **(Extreme Diagnostics Intelligence)** | AI-driven diagnostic agent purpose-built for server troubleshooting, root cause analysis, incident response, and infrastructure security — the assistant that treats evidence as sacred |
+| **Aux Command** | Remote operations workstation — distributed shell, diagnostics panel, fleet-wide execution, embedded VNC/RDP, and agent orchestration for operators who manage many machines |
+| **Aux Proton Drive Bridge** | Desktop bridge that syncs, mounts, and manages Proton Drive volumes with bidirectional support, conflict handling, encrypted local cache, and file manager integration |
+| **EDI** (Extreme Diagnostics Intelligence) | AI-driven diagnostic agent purpose-built for server troubleshooting, root cause analysis, incident response, and infrastructure security — the assistant that treats evidence as sacred |
 
 ## Philosophy
 
@@ -25,9 +29,9 @@ We believe the best tools are the ones that get out of your way when things are 
 
 Auxillo is actively developing its product line. Most systems are hardened and in production use before they see a public release.
 
-- [Aux Command](https://github.com/Auxillo-Tech/Aux-Command) — in active development
-- [Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge) — early release
-- EDI — operational and evolving
+- **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — in active development (private while hardening)
+- **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — early release (private while hardening)
+- **EDI** — operational and evolving
 
 ## Links
 
