@@ -16,7 +16,7 @@ Wir glauben, dass die besten Werkzeuge diejenigen sind, die dir aus dem Weg gehe
 |---|---|
 | **Aux Command** | Remote-Arbeitsplatz für Betriebsteams – verteilte Shell, Diagnosepanel, flottenweite Ausführung, integriertes VNC/RDP und Agentenorchestrierung für Betreiber vieler Maschinen |
 | **Aux Proton Drive Bridge** | Desktop-Brücke, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet – mit bidirektionaler Unterstützung, Konfliktbehandlung, verschlüsseltem lokalen Cache und Dateimanager-Integration |
-| **EDI** (Extreme Diagnostics Intelligence) | KI-gestützter Diagnose-Agent, speziell entwickelt für Server-Fehlerbehebung, Ursachenanalyse, Incident Response und Infrastruktursicherheit – der Assistent, der Beweise als heilig betrachtet |
+
 
 ## Philosophie
 
@@ -31,7 +31,7 @@ Auxillo entwickelt derzeit aktiv seine Produktlinie. Die meisten Systeme werden 
 
 - **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** – in aktiver Entwicklung (privat während der Härtung)
 - **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** – frühe Veröffentlichung (privat während der Härtung)
-- **EDI** – betriebsbereit und in Weiterentwicklung
+
 
 ## Links
 

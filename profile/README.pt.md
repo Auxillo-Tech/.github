@@ -16,7 +16,7 @@ Acreditamos que as melhores ferramentas são aquelas que não atrapalham quando 
 |---|---|
 | **Aux Command** | Estação de trabalho remota — shell distribuído, painel de diagnósticos, execução em frota, VNC/RDP embutido e orquestração de agentes para operadores que gerem múltiplas máquinas |
 | **Aux Proton Drive Bridge** | Ponte desktop que sincroniza, monta e gere volumes Proton Drive com suporte bidirecional, resolução de conflitos, cache local encriptada e integração com o gestor de ficheiros |
-| **EDI** (Extreme Diagnostics Intelligence) | Agente de diagnóstico orientado por IA, criado especificamente para resolução de problemas em servidores, análise de causas raiz, resposta a incidentes e segurança de infraestrutura — o assistente que trata a evidência como algo sagrado |
+
 
 ## Filosofia
 
@@ -31,7 +31,7 @@ A Auxillo está a desenvolver ativamente a sua linha de produtos. A maioria dos 
 
 - **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — em desenvolvimento ativo (privado durante o endurecimento)
 - **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — lançamento inicial (privado durante o endurecimento)
-- **EDI** — operacional e em evolução
+
 
 ## Ligações
 

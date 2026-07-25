@@ -16,7 +16,7 @@ Auxillo 致力于为真正运行系统的人打造工具——面向创始人、
 |---|---|
 | **Aux Command** | 远程运维工作站——分布式 Shell、诊断面板、集群级执行、嵌入式 VNC/RDP，以及面向多机管理者的 Agent 编排 |
 | **Aux Proton Drive Bridge** | 桌面桥接工具，支持 Proton Drive 卷的同步、挂载与管理，提供双向同步、冲突处理、加密本地缓存及文件管理器集成 |
-| **EDI**（极限诊断智能） | 专为服务器故障排查、根因分析、事件响应及基础设施安全而构建的 AI 驱动诊断 Agent——将证据视为神圣的助手 |
+
 
 ## 理念
 
@@ -31,7 +31,7 @@ Auxillo 正在积极开发其产品线。大多数系统在公开发布前已经
 
 - **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** — 正在积极开发中（加固期间保持私有）
 - **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** — 早期发布阶段（加固期间保持私有）
-- **EDI** — 已投入运营并持续演进
+
 
 ## 链接
 
