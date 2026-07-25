@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Infraestructura de nivel operador, automatización y diagnósticos asistidos por IA.**
+**Infraestructura de nivel operador y automatización.**
 
 Auxillo construye herramientas para personas que gestionan sistemas reales — fundadores, ingenieros, operaciones de seguridad y operadores de infraestructura que necesitan rapidez sin renunciar al control.
 

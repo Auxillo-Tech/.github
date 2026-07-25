@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Infrastruttura, automazione e diagnostica assistita dall'IA di livello operativo.**
+**Infrastruttura e automazione di livello operativo.**
 
 Auxillo crea strumenti per chi gestisce sistemi reali — fondatori, ingegneri, operatori della sicurezza e professionisti dell'infrastruttura che hanno bisogno di velocità senza rinunciare al controllo.
 

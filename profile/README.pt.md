@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Infraestrutura, automação e diagnósticos assistidos por IA — com padrão profissional.**
+**Infraestrutura e automação com padrão profissional.**
 
 A Auxillo cria ferramentas para pessoas que administram sistemas reais — fundadores, engenheiros, operações de segurança e profissionais de infraestrutura que precisam de agilidade sem abrir mão do controlo.
 

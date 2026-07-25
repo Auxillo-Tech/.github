@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Operator-grade infrastructure, automation, and AI-assisted diagnostics.**
+**Operator-grade infrastructure and automation.**
 
 Auxillo builds tools for people who run real systems — founders, engineers, security operations, and infrastructure operators who need speed without giving up control.
 

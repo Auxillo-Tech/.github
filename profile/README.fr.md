@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Infrastructure de niveau opérateur, automatisation et diagnostics assistés par IA.**
+**Infrastructure de niveau opérateur et automatisation.**
 
 Auxillo conçoit des outils pour les personnes qui exploitent des systèmes réels — fondateurs, ingénieurs, opérations de sécurité et opérateurs d'infrastructure qui ont besoin de rapidité sans sacrifier le contrôle.
 

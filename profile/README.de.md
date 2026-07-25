@@ -4,7 +4,7 @@
 
 # Auxillo
 
-**Betreibergerechte Infrastruktur, Automatisierung und KI-gestützte Diagnostik.**
+**Betreibergerechte Infrastruktur und Automatisierung.**
 
 Auxillo entwickelt Werkzeuge für Menschen, die echte Systeme betreiben – Gründer, Ingenieure, Sicherheitsverantwortliche und Infrastrukturbetreiber, die Geschwindigkeit benötigen, ohne die Kontrolle aufzugeben.
 
