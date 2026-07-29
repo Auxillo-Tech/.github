@@ -11,6 +11,7 @@ Auxillo のシステムまたは製品に脆弱性を発見された場合は、
 ## 報告方法
 
 - **ウェブサイト：** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 以下の情報を記載してください：
 

@@ -11,6 +11,7 @@ Si vous pensez avoir découvert une vulnérabilité dans un système ou un produ
 ## Signalement
 
 - **Site web :** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 Veuillez inclure :
 

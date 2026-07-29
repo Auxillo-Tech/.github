@@ -10,6 +10,7 @@ If you believe you have found a vulnerability in an Auxillo system or product, p
 
 ## Reporting
 
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 - **Website:** [auxillo.tech](https://auxillo.tech)
 
 Please include:

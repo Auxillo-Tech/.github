@@ -11,6 +11,7 @@ Auxillo 高度重视安全问题。
 ## 报告方式
 
 - **网站：** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 请提供以下信息：
 

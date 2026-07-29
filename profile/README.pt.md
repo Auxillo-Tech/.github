@@ -4,27 +4,33 @@
 
 # Auxillo
 
-**Ferramentas de desktop para operações de infraestrutura - criadas por um arquiteto, open source.**
+**Ferramentas de desktop para operações de infraestrutura - construídas por um arquiteto de sistemas, open source.**
 
-A Auxillo é operada de forma independente por Jaundre van Staden, um arquiteto de sistemas baseado em Portimao, Portugal. Esta organização hospeda as ferramentas de desktop open source. A plataforma completa da Auxillo - hospedagem gerenciada, ferramentas de diagnóstico, e-mail e domínios - está em auxillo.tech.
+A Auxillo é operada de forma independente por Jaundre van Staden, arquiteto de sistemas em Portimao, Portugal. Esta organização GitHub publica ferramentas de desktop livres e open source para operadores de sistemas reais.
 
-## Repositórios
+Os produtos alojados da Auxillo (diagnóstico, hosting gerido, domínios, email) são separados e estão em [auxillo.tech](https://auxillo.tech). Não fazem parte destes repositórios.
 
-### Aux Command
+## O que publicamos aqui
 
-Uma estação de trabalho Linux para operações remotas, destinada a operadores técnicos que precisam de um local controlado para abrir shells locais, sessões SSH, navegadores SFTP, túneis, consoles seriais, Mosh, Telnet, RDP, VNC e lançadores de desktop remoto. Utiliza OpenSSH nativo para sessões de terminal. Construída com sandbox Electron, isolamento de contexto e gerenciamento de credenciais com foco em segurança. Disponível como AppImage, .deb e .rpm.
+| Produto | Descrição |
+|---|---|
+| **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** | Estação de trabalho Linux para operações remotas: SSH, SFTP, túneis, série, Mosh, Telnet, RDP, VNC e shells locais num consola com prioridade de segurança. Pacotes: AppImage, `.deb`, `.rpm`. |
+| **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** | Ponte de desktop Linux para Proton Drive - sync, montagem, conflitos e integração com o gestor de ficheiros via CLI oficial da Proton. Pacotes: AppImage, `.deb`, `.rpm`. |
 
-### Aux Proton Drive Bridge
+## Estado
 
-Uma ponte desktop para Linux que sincroniza, monta e gerencia volumes do Proton Drive com suporte bidirecional. Lida com resolução de conflitos, cache local criptografado, integração com gerenciador de arquivos e montagem FUSE opcional. Utiliza a CLI oficial do Proton para autenticação - sua senha nunca é manipulada pela ponte.
+- **Aux Command** - linha de release Linux x86_64 ativa com pacotes assinados
+- **Aux Proton Drive Bridge** - linha de release desktop Linux ativa com pacotes assinados
+- **Apoio** - gorjetas opcionais em [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 
-## Filosofia
+## Abordagem
 
-Sua infraestrutura deve ser um ativo, não um passivo. A automação tem seu lugar. Decisões críticas não.
+- Defaults com prioridade de segurança e limites de confiança claros
+- Preferir ferramentas nativas maduras do Linux em vez de reinventar protocolos no Electron
+- Sem muros de pagamento nestas ferramentas de desktop open source
+- Empacotamento verificável que os operadores podem instalar sozinhos
 
-Ambas as ferramentas são construídas sobre arquiteturas padrão e open source, sem dependência de fornecedor e sem funcionalidades pagas.
-
-## Links
+## Ligações
 
 - Site: [auxillo.tech](https://auxillo.tech)
 - Apoio: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)

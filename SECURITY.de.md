@@ -11,6 +11,7 @@ Wenn du glaubst, eine Sicherheitslücke in einem Auxillo-System oder -Produkt ge
 ## Meldung
 
 - **Website:** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 Bitte füge Folgendes bei:
 

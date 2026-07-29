@@ -4,25 +4,31 @@
 
 # Auxillo
 
-**Desktop tools for infrastructure operations - built by an architect, open source.**
+**Desktop tools for infrastructure operations - built by a systems architect, open source.**
 
-Auxillo is independently operated by Jaundre van Staden, a systems architect based in Portimao, Portugal. This organization hosts the open-source desktop tools. The full Auxillo platform - managed hosting, diagnostic tools, email, and domains - is at auxillo.tech.
+Auxillo is independently operated by Jaundre van Staden, a systems architect based in Portimao, Portugal. This GitHub organization publishes free open-source desktop tools for operators who run real systems.
 
-## Repositories
+Hosted Auxillo products (diagnostics, managed hosting, domains, mail) are separate and live at [auxillo.tech](https://auxillo.tech). They are not part of these repositories.
 
-### Aux Command
+## What we publish here
 
-A Linux remote-operations workstation for technical operators who need one controlled place to open local shells, SSH sessions, SFTP browsers, tunnels, serial consoles, Mosh, Telnet, RDP, VNC, and remote desktop launchers. Uses native OpenSSH for terminal sessions. Built with Electron sandbox, context isolation, and security-first credential handling. Available as AppImage, .deb, and .rpm.
+| Product | Description |
+|---|---|
+| **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** | Linux remote-operations workstation: SSH, SFTP, tunnels, serial, Mosh, Telnet, RDP, VNC, and local shells in one security-first console. Packages: AppImage, `.deb`, `.rpm`. |
+| **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** | Linux desktop bridge for Proton Drive - sync, mount, conflicts, and file manager integration using Proton's official CLI. Packages: AppImage, `.deb`, `.rpm`. |
 
-### Aux Proton Drive Bridge
+## Status
 
-A desktop bridge for Linux that syncs, mounts, and manages Proton Drive volumes with bidirectional support. Handles conflict resolution, encrypted local cache, file manager integration, and optional FUSE mount. Uses Proton's official CLI for authentication - your password is never handled by the bridge.
+- **Aux Command** - active Linux x86_64 release line with signed packages
+- **Aux Proton Drive Bridge** - active Linux desktop release line with signed packages
+- **Support** - optional tips via [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo) (not required to use the software)
 
-## Philosophy
+## Approach
 
-Your infrastructure should be an asset, not a liability. Automation has its place. Critical decisions do not.
-
-Both tools are built on standard, open-source architectures with no vendor lock-in and no paid features.
+- Security-first defaults and clear trust boundaries
+- Prefer mature native Linux tools over reinventing protocols inside Electron
+- No paid feature walls on these open-source desktop tools
+- Verifiable packaging operators can inspect and install on their own machines
 
 ## Links
 

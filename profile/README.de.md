@@ -4,25 +4,31 @@
 
 # Auxillo
 
-**Desktop-Werkzeuge für den Infrastrukturbetrieb - entwickelt von einem Architekten, Open Source.**
+**Desktop-Werkzeuge für Infrastruktur-Operationen - von einem Systemarchitekten gebaut, quelloffen.**
 
-Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform - Managed Hosting, Diagnosetools, E-Mail und Domains - befindet sich auf auxillo.tech.
+Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese GitHub-Organisation veröffentlicht freie Open-Source-Desktop-Werkzeuge für Betreiber realer Systeme.
 
-## Repositories
+Gehostete Auxillo-Produkte (Diagnose, Managed Hosting, Domains, E-Mail) sind getrennt und liegen unter [auxillo.tech](https://auxillo.tech). Sie sind nicht Teil dieser Repositories.
 
-### Aux Command
+## Was wir hier veröffentlichen
 
-Eine Linux-Arbeitsstation für den Fernbetrieb, die technischen Betreibern einen kontrollierten Ort bietet, um lokale Shells, SSH-Sitzungen, SFTP-Browser, Tunnel, serielle Konsolen, Mosh, Telnet, RDP, VNC und Remote-Desktop-Launcher zu öffnen. Verwendet natives OpenSSH für Terminalsitzungen. Entwickelt mit Electron-Sandbox, Kontextisolierung und sicherheitsorientierter Credential-Verwaltung. Verfügbar als AppImage, .deb und .rpm.
+| Produkt | Beschreibung |
+|---|---|
+| **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** | Linux-Workstation für Remote-Operationen: SSH, SFTP, Tunnel, Seriell, Mosh, Telnet, RDP, VNC und lokale Shells in einer sicherheitsorientierten Konsole. Pakete: AppImage, `.deb`, `.rpm`. |
+| **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** | Linux-Desktop-Brücke für Proton Drive - Sync, Mount, Konflikte und Dateimanager-Integration über die offizielle Proton-CLI. Pakete: AppImage, `.deb`, `.rpm`. |
 
-### Aux Proton Drive Bridge
+## Status
 
-Eine Desktop-Brücke für Linux, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet - mit bidirektionaler Unterstützung. Handhabt Konfliktlösung, verschlüsselten Lokal-Cache, Dateimanager-Integration und optionalen FUSE-Mount. Verwendet Protons offizielle CLI zur Authentifizierung - Ihr Passwort wird niemals von der Brücke verarbeitet.
+- **Aux Command** - aktive Linux-x86_64-Release-Linie mit signierten Paketen
+- **Aux Proton Drive Bridge** - aktive Linux-Desktop-Release-Linie mit signierten Paketen
+- **Unterstützung** - optionale Tipps über [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 
-## Philosophie
+## Ansatz
 
-Ihre Infrastruktur sollte ein Vermögenswert sein, keine Belastung. Automatisierung hat ihren Platz. Kritische Entscheidungen nicht.
-
-Beide Werkzeuge basieren auf standardmäßigen, quelloffenen Architekturen ohne Vendor-Lock-in und ohne kostenpflichtige Funktionen.
+- Sicherheitsorientierte Defaults und klare Vertrauensgrenzen
+- Reife native Linux-Werkzeuge statt Protokoll-Neuentwicklung in Electron
+- Keine Bezahlschranken bei diesen Open-Source-Desktop-Tools
+- Überprüfbare Pakete, die Betreiber selbst installieren können
 
 ## Links
 

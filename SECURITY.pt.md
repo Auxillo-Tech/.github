@@ -11,6 +11,7 @@ Se acredita ter encontrado uma vulnerabilidade num sistema ou produto Auxillo, p
 ## Reportar
 
 - **Site:** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 Inclua, por favor:
 

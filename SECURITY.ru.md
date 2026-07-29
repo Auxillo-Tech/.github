@@ -11,6 +11,7 @@ Auxillo серьёзно относится к безопасности.
 ## Сообщить
 
 - **Сайт:** [auxillo.tech](https://auxillo.tech)
+- **Email:** [security@auxillo.tech](mailto:security@auxillo.tech)
 
 Пожалуйста, укажите:
 

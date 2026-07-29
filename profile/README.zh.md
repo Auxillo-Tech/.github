@@ -4,25 +4,31 @@
 
 # Auxillo
 
-**面向基础设施运维的桌面工具 由架构师打造，开源发布。**
+**面向基础设施运维的桌面工具 - 由系统架构师构建，开源。**
 
-Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台 包括托管服务、诊断工具、电子邮件和域名 请访问 auxillo.tech。
+Auxillo 由系统架构师 Jaundre van Staden 独立运营，常驻葡萄牙 Portimao。本 GitHub 组织发布面向真实系统运维人员的免费开源桌面工具。
 
-## 仓库
+Auxillo 的托管产品（诊断、托管主机、域名、邮件）是独立的，位于 [auxillo.tech](https://auxillo.tech)。它们不属于这些仓库。
 
-### Aux Command
+## 我们在此发布的内容
 
-一款面向技术运维人员的 Linux 远程操作工作站，提供统一受控界面，可打开本地 Shell、SSH 会话、SFTP 浏览器、隧道、串行控制台、Mosh、Telnet、RDP、VNC 及远程桌面启动器。终端会话使用原生 OpenSSH。采用 Electron 沙箱、上下文隔离和以安全为先的凭据处理构建。提供 AppImage、.deb 和 .rpm 格式。
+| 产品 | 说明 |
+|---|---|
+| **[Aux Command](https://github.com/Auxillo-Tech/Aux-Command)** | Linux 远程运维工作站：在一个安全优先的控制台中提供 SSH、SFTP、隧道、串口、Mosh、Telnet、RDP、VNC 与本地 shell。软件包：AppImage、`.deb`、`.rpm`。 |
+| **[Aux Proton Drive Bridge](https://github.com/Auxillo-Tech/Aux-Proton-Drive-Bridge)** | Linux 桌面 Proton Drive 桥接 - 通过 Proton 官方 CLI 实现同步、挂载、冲突处理与文件管理器集成。软件包：AppImage、`.deb`、`.rpm`。 |
 
-### Aux Proton Drive Bridge
+## 状态
 
-一款面向 Linux 的桌面桥接工具，可双向同步、挂载和管理 Proton Drive 卷。支持冲突解决、加密本地缓存、文件管理器集成及可选的 FUSE 挂载。使用 Proton 官方 CLI 进行身份验证 您的密码绝不会经由此桥接工具处理。
+- **Aux Command** - 活跃的 Linux x86_64 发布线，含签名软件包
+- **Aux Proton Drive Bridge** - 活跃的 Linux 桌面发布线，含签名软件包
+- **支持** - 可通过 [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo) 自愿赞助
 
-## 理念
+## 原则
 
-您的基础设施应是资产，而非负担。自动化有其用武之地，但关键决策不应自动化。
-
-两款工具均基于标准开源架构构建，无供应商锁定，无付费功能。
+- 安全优先的默认配置与清晰的信任边界
+- 优先使用成熟的原生 Linux 工具，而不是在 Electron 内重写协议
+- 这些开源桌面工具没有付费功能墙
+- 运维人员可自行检查与安装的可验证打包
 
 ## 链接
 
