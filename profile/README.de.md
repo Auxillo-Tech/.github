@@ -4,9 +4,9 @@
 
 # Auxillo
 
-**Desktop-Werkzeuge für den Infrastrukturbetrieb – entwickelt von einem Architekten, Open Source.**
+**Desktop-Werkzeuge für den Infrastrukturbetrieb - entwickelt von einem Architekten, Open Source.**
 
-Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform – Managed Hosting, Diagnosetools, E-Mail und Domains – befindet sich auf auxillo.tech.
+Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform - Managed Hosting, Diagnosetools, E-Mail und Domains - befindet sich auf auxillo.tech.
 
 ## Repositories
 
@@ -16,7 +16,7 @@ Eine Linux-Arbeitsstation für den Fernbetrieb, die technischen Betreibern einen
 
 ### Aux Proton Drive Bridge
 
-Eine Desktop-Brücke für Linux, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet – mit bidirektionaler Unterstützung. Handhabt Konfliktlösung, verschlüsselten Lokal-Cache, Dateimanager-Integration und optionalen FUSE-Mount. Verwendet Protons offizielle CLI zur Authentifizierung – Ihr Passwort wird niemals von der Brücke verarbeitet.
+Eine Desktop-Brücke für Linux, die Proton Drive-Volumes synchronisiert, einbindet und verwaltet - mit bidirektionaler Unterstützung. Handhabt Konfliktlösung, verschlüsselten Lokal-Cache, Dateimanager-Integration und optionalen FUSE-Mount. Verwendet Protons offizielle CLI zur Authentifizierung - Ihr Passwort wird niemals von der Brücke verarbeitet.
 
 ## Philosophie
 

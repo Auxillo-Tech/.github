@@ -4,9 +4,9 @@
 
 # Auxillo
 
-**Outils de bureau pour les opérations d'infrastructure – conçus par un architecte, open source.**
+**Outils de bureau pour les opérations d'infrastructure - conçus par un architecte, open source.**
 
-Auxillo est exploité indépendamment par Jaundre van Staden, un architecte système basé à Portimao, au Portugal. Cette organisation héberge les outils de bureau open source. L'ensemble de la plateforme Auxillo – hébergement géré, outils de diagnostic, email et domaines – se trouve sur auxillo.tech.
+Auxillo est exploité indépendamment par Jaundre van Staden, un architecte système basé à Portimao, au Portugal. Cette organisation héberge les outils de bureau open source. L'ensemble de la plateforme Auxillo - hébergement géré, outils de diagnostic, email et domaines - se trouve sur auxillo.tech.
 
 ## Dépôts
 
@@ -16,7 +16,7 @@ Un poste de travail Linux pour les opérations à distance, destiné aux opérat
 
 ### Aux Proton Drive Bridge
 
-Un pont de bureau pour Linux qui synchronise, monte et gère les volumes Proton Drive avec prise en charge bidirectionnelle. Gère la résolution des conflits, le cache local chiffré, l'intégration avec le gestionnaire de fichiers et le montage FUSE optionnel. Utilise la CLI officielle de Proton pour l'authentification – votre mot de passe n'est jamais traité par le pont.
+Un pont de bureau pour Linux qui synchronise, monte et gère les volumes Proton Drive avec prise en charge bidirectionnelle. Gère la résolution des conflits, le cache local chiffré, l'intégration avec le gestionnaire de fichiers et le montage FUSE optionnel. Utilise la CLI officielle de Proton pour l'authentification - votre mot de passe n'est jamais traité par le pont.
 
 ## Philosophie
 

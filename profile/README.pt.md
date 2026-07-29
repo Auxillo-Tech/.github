@@ -4,9 +4,9 @@
 
 # Auxillo
 
-**Ferramentas de desktop para operações de infraestrutura – criadas por um arquiteto, open source.**
+**Ferramentas de desktop para operações de infraestrutura - criadas por um arquiteto, open source.**
 
-A Auxillo é operada de forma independente por Jaundre van Staden, um arquiteto de sistemas baseado em Portimao, Portugal. Esta organização hospeda as ferramentas de desktop open source. A plataforma completa da Auxillo – hospedagem gerenciada, ferramentas de diagnóstico, e-mail e domínios – está em auxillo.tech.
+A Auxillo é operada de forma independente por Jaundre van Staden, um arquiteto de sistemas baseado em Portimao, Portugal. Esta organização hospeda as ferramentas de desktop open source. A plataforma completa da Auxillo - hospedagem gerenciada, ferramentas de diagnóstico, e-mail e domínios - está em auxillo.tech.
 
 ## Repositórios
 
@@ -16,7 +16,7 @@ Uma estação de trabalho Linux para operações remotas, destinada a operadores
 
 ### Aux Proton Drive Bridge
 
-Uma ponte desktop para Linux que sincroniza, monta e gerencia volumes do Proton Drive com suporte bidirecional. Lida com resolução de conflitos, cache local criptografado, integração com gerenciador de arquivos e montagem FUSE opcional. Utiliza a CLI oficial do Proton para autenticação – sua senha nunca é manipulada pela ponte.
+Uma ponte desktop para Linux que sincroniza, monta e gerencia volumes do Proton Drive com suporte bidirecional. Lida com resolução de conflitos, cache local criptografado, integração com gerenciador de arquivos e montagem FUSE opcional. Utiliza a CLI oficial do Proton para autenticação - sua senha nunca é manipulada pela ponte.
 
 ## Filosofia
 

@@ -4,9 +4,9 @@
 
 # Auxillo
 
-**面向基础设施运维的桌面工具——由架构师打造，开源发布。**
+**面向基础设施运维的桌面工具 由架构师打造，开源发布。**
 
-Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台——包括托管服务、诊断工具、电子邮件和域名——请访问 auxillo.tech。
+Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台 包括托管服务、诊断工具、电子邮件和域名 请访问 auxillo.tech。
 
 ## 仓库
 
@@ -16,7 +16,7 @@ Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙�
 
 ### Aux Proton Drive Bridge
 
-一款面向 Linux 的桌面桥接工具，可双向同步、挂载和管理 Proton Drive 卷。支持冲突解决、加密本地缓存、文件管理器集成及可选的 FUSE 挂载。使用 Proton 官方 CLI 进行身份验证——您的密码绝不会经由此桥接工具处理。
+一款面向 Linux 的桌面桥接工具，可双向同步、挂载和管理 Proton Drive 卷。支持冲突解决、加密本地缓存、文件管理器集成及可选的 FUSE 挂载。使用 Proton 官方 CLI 进行身份验证 您的密码绝不会经由此桥接工具处理。
 
 ## 理念
 
