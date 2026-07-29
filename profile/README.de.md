@@ -6,7 +6,7 @@
 
 **Desktop-Werkzeuge für den Infrastrukturbetrieb – entwickelt von einem Architekten, Open Source.**
 
-Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform – Managed Hosting, Diagnosetools, E-Mail, SEO und Domains – befindet sich auf auxillo.tech.
+Auxillo wird unabhängig von Jaundre van Staden betrieben, einem Systemarchitekten mit Sitz in Portimao, Portugal. Diese Organisation beherbergt die Open-Source-Desktop-Werkzeuge. Die vollständige Auxillo-Plattform – Managed Hosting, Diagnosetools, E-Mail und Domains – befindet sich auf auxillo.tech.
 
 ## Repositories
 
@@ -27,4 +27,5 @@ Beide Werkzeuge basieren auf standardmäßigen, quelloffenen Architekturen ohne 
 ## Links
 
 - Website: [auxillo.tech](https://auxillo.tech)
+- Unterstützung: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub: [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

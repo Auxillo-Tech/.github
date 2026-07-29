@@ -6,7 +6,7 @@
 
 **Herramientas de escritorio para operaciones de infraestructura – creadas por un arquitecto, de código abierto.**
 
-Auxillo es operado de forma independiente por Jaundre van Staden, un arquitecto de sistemas con sede en Portimao, Portugal. Esta organización aloja las herramientas de escritorio de código abierto. La plataforma completa de Auxillo – hosting gestionado, herramientas de diagnóstico, correo electrónico, SEO y dominios – se encuentra en auxillo.tech.
+Auxillo es operado de forma independiente por Jaundre van Staden, un arquitecto de sistemas con sede en Portimao, Portugal. Esta organización aloja las herramientas de escritorio de código abierto. La plataforma completa de Auxillo – hosting gestionado, herramientas de diagnóstico, correo electrónico y dominios – se encuentra en auxillo.tech.
 
 ## Repositorios
 
@@ -27,4 +27,5 @@ Ambas herramientas están construidas sobre arquitecturas estándar y de código
 ## Enlaces
 
 - Sitio web: [auxillo.tech](https://auxillo.tech)
+- Apoyo: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub: [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

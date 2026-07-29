@@ -6,7 +6,7 @@
 
 **Outils de bureau pour les opérations d'infrastructure – conçus par un architecte, open source.**
 
-Auxillo est exploité indépendamment par Jaundre van Staden, un architecte système basé à Portimao, au Portugal. Cette organisation héberge les outils de bureau open source. L'ensemble de la plateforme Auxillo – hébergement géré, outils de diagnostic, email, SEO et domaines – se trouve sur auxillo.tech.
+Auxillo est exploité indépendamment par Jaundre van Staden, un architecte système basé à Portimao, au Portugal. Cette organisation héberge les outils de bureau open source. L'ensemble de la plateforme Auxillo – hébergement géré, outils de diagnostic, email et domaines – se trouve sur auxillo.tech.
 
 ## Dépôts
 
@@ -27,4 +27,5 @@ Les deux outils sont construits sur des architectures standard et open source, s
 ## Liens
 
 - Site web : [auxillo.tech](https://auxillo.tech)
+- Soutien : [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub : [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

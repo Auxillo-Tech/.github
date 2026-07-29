@@ -6,7 +6,7 @@
 
 **インフラ運用のためのデスクトップツール – アーキテクトが構築、オープンソース。**
 
-Auxillo は、ポルトガルのポルティマンを拠点とするシステムアーキテクト Jaundre van Staden が独立して運営しています。この組織はオープンソースのデスクトップツールをホストしています。Auxillo の全プラットフォーム（マネージドホスティング、診断ツール、メール、SEO、ドメイン）は auxillo.tech にあります。
+Auxillo は、ポルトガルのポルティマンを拠点とするシステムアーキテクト Jaundre van Staden が独立して運営しています。この組織はオープンソースのデスクトップツールをホストしています。Auxillo の全プラットフォーム（マネージドホスティング、診断ツール、メール、ドメイン）は auxillo.tech にあります。
 
 ## リポジトリ
 
@@ -27,4 +27,5 @@ Proton Drive ボリュームを双方向で同期、マウント、管理する 
 ## リンク
 
 - ウェブサイト: [auxillo.tech](https://auxillo.tech)
+- サポート: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub: [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

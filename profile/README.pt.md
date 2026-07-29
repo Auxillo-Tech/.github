@@ -6,7 +6,7 @@
 
 **Ferramentas de desktop para operações de infraestrutura – criadas por um arquiteto, open source.**
 
-A Auxillo é operada de forma independente por Jaundre van Staden, um arquiteto de sistemas baseado em Portimao, Portugal. Esta organização hospeda as ferramentas de desktop open source. A plataforma completa da Auxillo – hospedagem gerenciada, ferramentas de diagnóstico, e-mail, SEO e domínios – está em auxillo.tech.
+A Auxillo é operada de forma independente por Jaundre van Staden, um arquiteto de sistemas baseado em Portimao, Portugal. Esta organização hospeda as ferramentas de desktop open source. A plataforma completa da Auxillo – hospedagem gerenciada, ferramentas de diagnóstico, e-mail e domínios – está em auxillo.tech.
 
 ## Repositórios
 
@@ -27,4 +27,5 @@ Ambas as ferramentas são construídas sobre arquiteturas padrão e open source,
 ## Links
 
 - Site: [auxillo.tech](https://auxillo.tech)
+- Apoio: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub: [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

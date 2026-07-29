@@ -6,7 +6,7 @@
 
 **Strumenti desktop per le operazioni di infrastruttura – realizzati da un architetto, open source.**
 
-Auxillo è gestito indipendentemente da Jaundre van Staden, un architetto di sistemi con sede a Portimao, in Portogallo. Questa organizzazione ospita gli strumenti desktop open source. L'intera piattaforma Auxillo – hosting gestito, strumenti diagnostici, email, SEO e domini – si trova su auxillo.tech.
+Auxillo è gestito indipendentemente da Jaundre van Staden, un architetto di sistemi con sede a Portimao, in Portogallo. Questa organizzazione ospita gli strumenti desktop open source. L'intera piattaforma Auxillo – hosting gestito, strumenti diagnostici, email e domini – si trova su auxillo.tech.
 
 ## Repository
 
@@ -27,4 +27,5 @@ Entrambi gli strumenti sono costruiti su architetture standard e open source, se
 ## Link
 
 - Sito web: [auxillo.tech](https://auxillo.tech)
+- Supporto: [Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub: [github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)

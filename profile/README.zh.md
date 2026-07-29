@@ -6,7 +6,7 @@
 
 **面向基础设施运维的桌面工具——由架构师打造，开源发布。**
 
-Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台——包括托管服务、诊断工具、电子邮件、SEO 和域名——请访问 auxillo.tech。
+Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙波尔蒂芒。本组织托管开源桌面工具。完整的 Auxillo 平台——包括托管服务、诊断工具、电子邮件和域名——请访问 auxillo.tech。
 
 ## 仓库
 
@@ -27,4 +27,5 @@ Auxillo 由系统架构师 Jaundre van Staden 独立运营，他常驻葡萄牙�
 ## 链接
 
 - 网站：[auxillo.tech](https://auxillo.tech)
+- 支持：[Buy Me a Coffee](https://www.buymeacoffee.com/auxillo)
 - GitHub：[github.com/Auxillo-Tech](https://github.com/Auxillo-Tech)
